@@ -84,6 +84,9 @@ background: rgba(0, 0, 0, 0.15);
 background: url(<path-to-image>), cover no-repeat;
 }
 
+.color{
+    color: palevioletred;
+}
 
 .aatext{
     display: flex;
@@ -120,6 +123,57 @@ flex-shrink: 0;
     display: flex;
     justify-content: center;
 
+}
+
+.last{
+    padding: 130px;
+    
+    background-color:black;
+}
+.las{
+    color:white;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.lass{
+    color: white;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+/*newsec*/
+
+.new{
+    background-color: paleturquoise;
+    
+}
+
+.ne{
+    color:white;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+}
+.nej{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
 }
 
 
